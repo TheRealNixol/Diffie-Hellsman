@@ -1,0 +1,13 @@
+C:\Users\Monteiro\Desktop\Diffie-Hellsman\Diffie-Hellsman\bin\Debug\netcoreapp3.1\Diffie-Hellsman.exe
+C:\Users\Monteiro\Desktop\Diffie-Hellsman\Diffie-Hellsman\bin\Debug\netcoreapp3.1\Diffie-Hellsman.deps.json
+C:\Users\Monteiro\Desktop\Diffie-Hellsman\Diffie-Hellsman\bin\Debug\netcoreapp3.1\Diffie-Hellsman.runtimeconfig.json
+C:\Users\Monteiro\Desktop\Diffie-Hellsman\Diffie-Hellsman\bin\Debug\netcoreapp3.1\Diffie-Hellsman.runtimeconfig.dev.json
+C:\Users\Monteiro\Desktop\Diffie-Hellsman\Diffie-Hellsman\bin\Debug\netcoreapp3.1\Diffie-Hellsman.dll
+C:\Users\Monteiro\Desktop\Diffie-Hellsman\Diffie-Hellsman\bin\Debug\netcoreapp3.1\Diffie-Hellsman.pdb
+C:\Users\Monteiro\Desktop\Diffie-Hellsman\Diffie-Hellsman\obj\Debug\netcoreapp3.1\Diffie-Hellsman.csprojAssemblyReference.cache
+C:\Users\Monteiro\Desktop\Diffie-Hellsman\Diffie-Hellsman\obj\Debug\netcoreapp3.1\Diffie-Hellsman.csproj.CoreCompileInputs.cache
+C:\Users\Monteiro\Desktop\Diffie-Hellsman\Diffie-Hellsman\obj\Debug\netcoreapp3.1\Diffie-Hellsman.AssemblyInfoInputs.cache
+C:\Users\Monteiro\Desktop\Diffie-Hellsman\Diffie-Hellsman\obj\Debug\netcoreapp3.1\Diffie-Hellsman.AssemblyInfo.cs
+C:\Users\Monteiro\Desktop\Diffie-Hellsman\Diffie-Hellsman\obj\Debug\netcoreapp3.1\Diffie-Hellsman.dll
+C:\Users\Monteiro\Desktop\Diffie-Hellsman\Diffie-Hellsman\obj\Debug\netcoreapp3.1\Diffie-Hellsman.pdb
+C:\Users\Monteiro\Desktop\Diffie-Hellsman\Diffie-Hellsman\obj\Debug\netcoreapp3.1\Diffie-Hellsman.genruntimeconfig.cache
